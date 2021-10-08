@@ -12,5 +12,5 @@ sphinx:
 
 formats:
   - pdf
-  - html
+  - htmlzip
   - epub
